@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Tenho 20 anos, formado em Análise e Desenvolvimento de Sistemas, trabalhando na área de Desenvolvimento web Fullstack com as linguagens Angular e NestJS.
+Tenho 20 anos, formado em Análise e Desenvolvimento de Sistemas, trabalhando na área de Desenvolvimento Web Fullstack com as linguagens Angular e NestJS.
 
 
 ## 🛠 Habilidades
