@@ -7,8 +7,8 @@ Tenho 21 anos, formado em Análise e Desenvolvimento de Sistemas, trabalhando na
 
 
 ## 🛠 Habilidades
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaopfarias&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopfarias&theme=dark&layout=compact)](https://github.com/Joaopfarias/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopfreire&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopfreire&theme=dark&layout=compact)](https://github.com/joaopfreire/github-readme-stats)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 )
